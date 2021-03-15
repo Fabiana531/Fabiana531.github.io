@@ -1,0 +1,93 @@
+        #train {
+            width: 700px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        
+        #mta{
+            width: 500px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        
+        #juice{
+            width: 400px;
+            display: block;
+            margin-right: auto;
+        }
+        
+        #nelly{
+            width: 400px;
+            display: block;
+            margin-right: auto;
+            margin-left: auto;
+        }
+        
+        #armory{
+            width: 400px;
+            display: block;
+            margin-left: auto;
+        }
+        
+      
+
+        body{
+            background-color: #DFE7F2;
+        }
+
+        h1{
+            font-family: times;
+            text-align: center;
+            
+        }
+        
+        h2{
+            font-family: times;
+            text-align: center;
+        }
+        
+        h3{
+            font-family:times;
+            text-align: center;
+            text-decoration: underline;
+        }
+        h4{
+            font-family:times;
+            text-align: center;
+            text-decoration:underline;
+        }
+        
+        p5{
+            font-family: times;
+            text-align: center;
+        }
+
+       
+            
+        .text{
+            font-family: times;
+            width: 70%;
+            margin: auto;
+            text-indent: 50px;
+        }
+        .ending{
+            font-family: times;
+            text-align: center;
+        }
+        
+        .find{
+            font-family: times;
+            text-align: center;
+        }
+        
+        .card-body{
+            background-color: #C0C2EA;
+        }
+        
+        .card-title{
+            font-family: times;
+        }
+        
+       
